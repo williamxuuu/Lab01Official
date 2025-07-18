@@ -1,0 +1,79 @@
+{
+    "patients": [
+        {
+            "ID": "CAT001",
+            "Name": "Whiskers",
+            "Age": 4,
+            "Weight": 3.2,
+            "Diagnosis": "Hip Dysplasia",
+            "Visits": [
+                {
+                    "Date": "2024-12-01",
+                    "Temp": 102.5,
+                    "Heart Rate": 140
+                },
+                {
+                    "Date": "2025-01-15",
+                    "Temp": 102.0,
+                    "Heart Rate": 135
+                }
+            ]
+        },
+        {
+            "ID": "CAT002",
+            "Name": "Luna",
+            "Age": 2,
+            "Weight": 2.8,
+            "Diagnosis": "Healthy",
+            "Visits": [
+                {
+                    "Date": "2025-02-10",
+                    "Temp": 101.7,
+                    "Heart Rate": 130
+                }
+            ]
+        },
+        {
+            "ID": "CAT003",
+            "Name": "Squishy",
+            "Age": 5,
+            "Weight": 2.8,
+            "Diagnosis": "Unhealthy",
+            "Visits": [
+                {
+                    "Date": "2025-02-10",
+                    "Temp": 101.7,
+                    "Heart Rate": 130
+                }
+            ]
+        },
+        {
+            "ID": "CAT004",
+            "Name": "Oreo",
+            "Age": 3,
+            "Weight": 2.8,
+            "Diagnosis": "Broken Leg",
+            "Visits": [
+                {
+                    "Date": "2025-02-10",
+                    "Temp": 101.7,
+                    "Heart Rate": 130
+                }
+            ]
+        },
+        {
+            "ID": "CAT005",
+            "Name": "Winnie",
+            "Age": 9,
+            "Weight": 4.0,
+            "Diagnosis": "Depression",
+            "Visits": [
+                {
+                    "Date": "2025-07-14",
+                    "Temp": 90.0,
+                    "Heart Rate": 60
+                }
+            ]
+        }
+    ]
+}
